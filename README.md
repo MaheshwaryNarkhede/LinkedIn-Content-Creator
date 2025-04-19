@@ -1,5 +1,9 @@
 # 🚀 LinkedIn Content Creator Dashboard
 
+<div align="center">
+  <img src="C:\Users\mahes\OneDrive\Pictures\Screenshots\Screenshot 2025-04-20 002154.png" width="700">
+  <p><em>AI-powered content generation for LinkedIn professionals</em></p>
+</div>
 ## ✨ Features
 
 - **AI-Powered Content Generation** - Create engaging LinkedIn posts customized for your industry and audience
