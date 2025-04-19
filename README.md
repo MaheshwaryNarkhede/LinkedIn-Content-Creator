@@ -71,12 +71,6 @@ linkedin-content-creator/
 └── requirements.txt       # Project dependencies
 ```
 
-## 🖼️ Adding the Dashboard Image
-
-1. Create a `docs/images` directory in your project
-2. Take a screenshot of your dashboard in action
-3. Save it as `dashboard_preview.png` in the `docs/images` directory
-4. The image will now appear in the README
 
 ## 📝 Usage Examples
 
