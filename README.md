@@ -109,7 +109,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <div align="center">
-  <p>© 2025 Your Name. All rights reserved.</p>
+  <p>© 2025 Maheshwary Narkhede. All rights reserved.</p>
   <p>
     <a href="https://github.com/MaheshwaryNArkhede">GitHub</a>*
   </p>
