@@ -1,0 +1,52 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment and virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files 
+# data/profiles.json
+
+# Logs
+*.log
+logs/
+
+# Editor specific files
+.idea/
+.vscode/
+
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+
+
+# Dependencies
+node_modules/
+
+# Local configuration
+.local/

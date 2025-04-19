@@ -1,0 +1,24 @@
+{
+    "profiles": [
+        {
+            "name": "Maheshwary Narkhede",
+            "industry": "Vmantu",
+            "tone": "Professional"
+        },
+        {
+            "name": "Archit Anand  ",
+            "industry": "Fuelgrowth.ai",
+            "tone": "Professional"
+        },
+        {
+            "name": "Aaron Golbin ",
+            "industry": "Managing Partner at LvlUp Ventures | Co-Founder & Co-Chairman, National Artificial Intelligence Association",
+            "tone": "Professional"
+        },
+        {
+            "name": "Jaspar Carmichael-Jack  ",
+            "industry": "Founder & CEO at Artisan",
+            "tone": "Educational"
+        }
+    ]
+}
